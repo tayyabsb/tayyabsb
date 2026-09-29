@@ -23,6 +23,8 @@ Computer Science Student & Developer building software and exploring technology.
 - **Tech Used:** HTML/CSS/JS
 - **Link:** [View Code](./)
 
+- #### incomplete repository 
+
 ---
 
 ### 📫 Connect with Me
