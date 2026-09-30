@@ -28,6 +28,6 @@ Computer Science Student & Developer building software and exploring technology.
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-tayyab-3918a63a6?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-tayyab-3918a63a6
 - **Email:** tayyabok39@gmail.com
 - 
